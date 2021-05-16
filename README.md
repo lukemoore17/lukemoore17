@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luke Moore
 - 👀 I’m interested in creating a better web for both developers and users. My main technology stack is C#, SQL Server, and Angular
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Rust, Python, and Linux CLI
 - 💞️ I’m looking to collaborate on new ideas.
 - 📫 How to reach me: DM me on twitter @lukemoore77
 
